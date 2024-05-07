@@ -1,4 +1,4 @@
 # pinot-playground
 
-Apache Pinot playground
+[Apache Pinot](https://pinot.apache.org) playground
 
