@@ -1,1 +1,4 @@
-# TODO
+# pinot-playground
+
+Apache Pinot playground
+
