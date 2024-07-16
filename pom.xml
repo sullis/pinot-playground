@@ -18,6 +18,7 @@
   <properties>
     <logback.version>1.5.6</logback.version>
     <slf4j.version>2.0.13</slf4j.version>
+    <pinot.version>1.1.0</pinot.version>
     <skip.tests>false</skip.tests>
   </properties>
 
@@ -48,6 +49,21 @@
   </dependencyManagement>
 
   <dependencies>
+    <dependency>
+      <groupId>org.apache.pinot</groupId>
+      <artifactId>pinot-common</artifactId>
+      <version>${pinot.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.pinot</groupId>
+      <artifactId>pinot-s3</artifactId>
+      <version>${pinot.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.pinot</groupId>
+      <artifactId>pinot-spi</artifactId>
+      <version>${pinot.version}</version>
+    </dependency>
     <dependency>
       <groupId>org.assertj</groupId>
       <artifactId>assertj-core</artifactId>
