@@ -1,7 +1,6 @@
 package io.github.sullis.pinot.playground;
 
 import java.net.URI;
-import net.bytebuddy.asm.Advice;
 import org.apache.pinot.spi.filesystem.LocalPinotFS;
 import org.apache.pinot.spi.filesystem.PinotFS;
 import org.junit.jupiter.api.Test;
