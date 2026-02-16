@@ -64,6 +64,13 @@ This playground helps you explore:
 
 ## Resources
 
+### Companies Using Pinot
+
+#### Stripe
+- [How we built it: Real-time analytics for Stripe Billing](https://stripe.com/blog/how-we-built-it-real-time-analytics-for-stripe-billing) - Stripe's engineering blog post about building real-time analytics with Apache Pinot
+- [Stripe's Journey to $18.6B of Transactions with Pinot](https://startree.ai/user-stories/stripe-journey-to-18-b-of-transactions-with-apache-pinot/) - Case study on Stripe's use of Apache Pinot at scale
+- [Stripe is Powered by StarTree & Apache Pinot](https://www.youtube.com/watch?v=jSpqaILiQiY) - Video about how Stripe uses Apache Pinot for real-time analytics
+
 ### Videos
 - 2024: [Overview of Pinot 1.1 features](https://www.youtube.com/watch?v=wSwPtOajsGY) - April 2024
 - 2023: [Scaling Uber's Metric System from Elasticsearch to Pinot](https://www.youtube.com/watch?v=u82r_eqUaiI) - May 2023
